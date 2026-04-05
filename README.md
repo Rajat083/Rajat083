@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on  <br>Generative AI, LLM fine tuning, Backend-focused projects using FastAPI and React, with emphasis on clean APIs, authentication, system design fundamentals and AI integration.<br><br>👯 I’m looking to collaborate on  <br>Open-source backend projects, developer tools, or problem-solving focused applications.<br><br>🤝 I’m looking for help with  <br>Scalable backend architecture, database schema design, and writing production-grade code.<br><br>🌱 I’m currently learning  <br>Artificial Intelligence, Deep Learning, Generative AI, core backend engineering concepts alongside Python-based development.<br><br>💬 Ask me about  <br>Python, FastAPI, REST APIs, Deep Learning, Git/GitHub, and CS fundamentals.<br><br>⚡ Fun fact  <br>I prefer understanding how systems work internally rather than just using frameworks.
 
 
